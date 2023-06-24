@@ -1,0 +1,811 @@
+AGE,GENDER,OCCUPATION:,INCOME (RM XXXX):,MARITAL STATUS,What is your travelling duration?,Why you usually travel?,What is your budget for travelling?,How long do you plan for your travel?,Usually where do you plan to stay?,Travelling frequency,Travelling Transportation,Do you prefer using tour guide?,Do you prefer travelling local or overseas?,Language preferences,Do you prefer solo or group travel?
+55,Male,Cleaner,4390,Married,0,3,RM1000 - RM1500,1,Homestay,2,1,Yes,Local,0,Solo
+46,Female,Clerk,3000,Married,2,1,RM2000 - RM2500,1,Hotel,0,0,Yes,Local,0,Group
+28,Male,Manager site,3000,Single,0,1,below RM1000,1,AirBnB,1,0,No,Local,0,Group
+21,Female,Student,150,Single,0,3,RM1000 - RM1500,1,Hotel,0,0,No,Local,0,Group
+23,Female,Tennis player,6500,Married,1,0,RM1000 - RM1500,1,AirBnB,1,1,No,Local,0,Solo
+60,Male,Retired,3000,Married,0,3,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+30,Male,Chef,9000,Single,0,1,RM1000 - RM1500,1,AirBnB,0,1,Yes,Overseas,2,Group
+23,Male,student,1500,Single,0,2,below RM1000,0,Family House,1,1,No,Local,0,Solo
+26,Female,Cleaner,1670,Married,1,1,RM1000 - RM1500,2,Hotel,1,3,No,Local,1,Solo
+22,Male,Student,500,Single,1,2,RM1000 - RM1500,0,Hotel,1,0,Yes,Overseas,1,Group
+20,Female,Student,0,Single,2,1,RM2000 - RM2500,2,Homestay,0,0,No,Local,0,Group
+30,Male,Teacher,5000,Single,0,1,RM1500 - RM2000,2,AirBnB,1,3,Yes,Overseas,1,Solo
+29,Male,Vlogger,2600,Married,1,1,RM1000 - RM1500,3,Homestay,1,2,No,Overseas,0,Solo
+21,Male,Student,0,Single,0,4,RM1000 - RM1500,4,AirBnB,3,0,No,Overseas,0,Group
+23,Female,Unemployed,0,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+23,Male,Discord admin,4500,Single,0,3,below RM1000,0,Family House,1,3,No,Overseas,1,Solo
+23,Male,Student,0,Single,1,2,below RM1000,0,Homestay,0,0,Yes,Overseas,0,Group
+31,Female,Goalkeeper,17000,Married,0,1,RM1500 - RM2000,0,Homestay,0,1,No,Overseas,1,Group
+28,Male,Police Officer,2500,Married,0,1,below RM1000,0,Family House,0,0,No,Local,0,Group
+65,Male,Retirees ,1500,Married,1,4,More than RM3000,3,Hotel,0,3,Yes,Overseas,0,Group
+23,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,1,2,No,Local,0,Solo
+30,Female,HR Department ,5000,Married,1,0,RM1500 - RM2000,1,Hotel,2,1,Yes,Local,1,Group
+21,Male,student,1000,Single,0,3,below RM1000,0,Family House,2,2,No,Local,0,Solo
+49,Male,Teacher,5000,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,No,Local,1,Solo
+19,Male,Student,0,Single,2,1,RM1000 - RM1500,1,AirBnB,0,3,Yes,Overseas,1,Group
+22,Male,Student,0,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+25,Male,Technician,3400,Single,1,2,RM1000 - RM1500,0,Campsite,1,1,Yes,Local,1,Solo
+26,Male,nurse,3500,Single,0,1,below RM1000,1,Campsite,1,1,No,Overseas,1,Solo
+39,Female,Baker,4500,Single,1,2,RM1500 - RM2000,2,Family House,1,3,No,Overseas,1,Solo
+33,Male,CEO,500000,Married,2,3,RM2500 - RM3000,2,Family House,0,3,No,Overseas,1,Group
+30,Female,Twitch streamer,8000,Single,0,1,RM1000 - RM1500,3,AirBnB,1,1,No,Overseas,0,Group
+24,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+22,Female,Student,1000,Single,0,1,below RM1000,0,Hotel,0,2,No,Local,0,Group
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+21,Female,Student,0,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+27,Female,Lecturer,5000,Single,0,1,RM1000 - RM1500,0,Homestay,1,0,No,Overseas,1,Group
+43,Male,Yoga instructor ,3290,Single,2,3,RM1000 - RM1500,0,Hotel,2,1,Yes,Overseas,1,Solo
+21,Male,Student,100,Single,0,2,below RM1000,0,AirBnB,1,2,No,Local,0,Solo
+57,Male,CEO,1000000,Married,1,2,More than RM3000,3,Hotel,1,1,No,Local,1,Solo
+33,Male,Police ,7800,Married,2,3,RM2500 - RM3000,0,Family House,0,2,No,Overseas,1,Solo
+32,Male,Journalists ,9000,Married,1,1,RM1000 - RM1500,1,Homestay,0,0,No,Local,1,Solo
+23,Male,student,1200,Single,0,1,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+43,Male,Scientist,120000,Married,1,1,below RM1000,3,Campsite,0,1,Yes,Overseas,2,Group
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+19,Female,Athletes ,7000,Single,2,2,RM2000 - RM2500,3,Hotel,2,2,No,Local,1,Group
+24,Female,Associate in EY,4500,Single,2,2,RM2500 - RM3000,2,AirBnB,0,3,Yes,Overseas,1,Group
+22,Female,student,2000,Single,0,2,below RM1000,0,Homestay,1,2,No,Local,0,Solo
+27,Male,Engineer,3500,Single,0,0,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Group
+21,Male,STUDENT,0,Single,1,3,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+23,Male,student,1000,Single,0,2,below RM1000,1,Hotel,1,2,No,Local,0,Solo
+24,Male,Lawyer,7680,Single,1,2,RM1000 - RM1500,2,Hotel,1,3,No,Overseas,1,Solo
+21,Female,Student,0,Single,0,0,RM1000 - RM1500,4,Homestay,1,2,Yes,Local,0,Group
+40,Female,Coway,4500,Married,0,0,RM1500 - RM2000,2,Homestay,1,2,No,Overseas,0,Group
+28,Female,Lecturer,4500,Married,0,3,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Group
+27,Male,Engineer,3500,Single,0,0,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Group
+34,Male,Librarian,16435,Married,1,0,RM2000 - RM2500,2,Hotel,2,1,No,Overseas,0,Group
+25,Male,Accountant,5000,Single,1,2,RM2500 - RM3000,1,Hotel,1,3,No,Overseas,1,Solo
+24,Male,Student,0,Single,1,3,below RM1000,1,Hotel,0,0,No,Local,0,Group
+36,Male,Footballer,10000,Married,2,2,More than RM3000,3,Homestay,2,3,No,Local,0,Group
+22,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+39,Male,Sports personality ,9000,Married,0,3,RM1500 - RM2000,4,Hotel,0,0,No,Local,0,Group
+24,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+28,Female,Lecturer,4500,Married,0,3,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Group
+37,Female,Nurse,110000,Single,1,2,RM2000 - RM2500,2,Family House,1,2,No,Local,1,Group
+18,Female,Student,600,Single,0,3,below RM1000,0,Hotel,0,2,No,Overseas,1,Group
+31,Male,Karate teacher,6000,Married,0,1,RM1500 - RM2000,1,Family House,0,1,No,Local,1,Solo
+19,Male,Student,0,Single,0,1,RM1000 - RM1500,1,Hotel,1,0,No,Local,1,Group
+22,Male,Student,0,Single,0,3,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+20,Female,Grab rider,3100,Single,1,0,RM1000 - RM1500,1,AirBnB,1,1,No,Overseas,0,Group
+46,Male,Snr manager,15000,Married,1,1,RM1500 - RM2000,0,Hotel,1,0,No,Overseas,0,Group
+31,Male,Teacher,5000,Single,0,1,RM1000 - RM1500,1,Homestay,1,1,No,Local,0,Solo
+32,Female,Editor,2500,Single,0,2,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+27,Female,Bussiness woman,4000,Married,0,1,below RM1000,1,AirBnB,1,0,No,Local,0,Group
+22,Male,Student,0,Single,1,1,RM1000 - RM1500,1,Hotel,1,3,No,Local,1,Group
+23,Female,Student,0,Single,1,2,below RM1000,1,Family House,0,2,No,Local,0,Solo
+45,Female,Politician,4500,Single,2,2,RM2000 - RM2500,0,Hotel,1,3,Yes,Overseas,2,Group
+21,Male,Student,800,Single,1,1,below RM1000,4,AirBnB,1,2,No,Overseas,1,Group
+26,Male,Fireman,2500,Married,0,1,below RM1000,1,Homestay,0,0,No,Local,0,Group
+24,Male,Student,0,Single,1,3,below RM1000,1,Hotel,0,0,No,Local,0,Group
+40,Male,Bussiness Man,8900,Married,1,1,RM1500 - RM2000,2,Hotel,1,3,No,Overseas,1,Solo
+26,Male,Student ,0,Single,0,1,RM1000 - RM1500,0,Homestay,1,0,No,Local,0,Group
+31,Female,Postman ,4100,Single,1,1,RM1000 - RM1500,1,Family House,0,1,No,Overseas,0,Solo
+21,Female,Baker,1500,Single,1,0,RM1000 - RM1500,1,Hotel,2,0,No,Local,1,Solo
+23,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,1,2,No,Local,0,Solo
+21,Female,Student,0,Single,0,2,below RM1000,1,AirBnB,0,2,No,Local,0,Solo
+30,Female,Teacher,3000,Single,0,2,below RM1000,0,AirBnB,1,0,No,Local,0,Group
+21,Female,Student,0,Single,1,1,RM2500 - RM3000,2,Hotel,1,3,No,Overseas,1,Group
+21,Female,Student ,100,Single,1,1,RM1000 - RM1500,1,AirBnB,1,0,No,Local,1,Group
+19,Female,Student,400,Single,1,1,RM1500 - RM2000,1,Hotel,0,3,Yes,Overseas,1,Group
+28,Male,Lawyer,5900,Married,0,1,RM1500 - RM2000,1,Hotel,1,1,Yes,Overseas,1,Solo
+39,Male,dentist,3400,Married,0,1,below RM1000,3,Campsite,1,2,No,Local,0,Group
+22,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+50,Female,Teacher,5000,Married,0,2,RM1000 - RM1500,1,Family House,1,0,No,Local,0,Solo
+21,Female,Student,700,Single,0,1,below RM1000,1,AirBnB,2,1,Yes,Local,1,Solo
+22,Female,BACHELOR,100,Single,1,2,RM1500 - RM2000,1,Homestay,0,0,No,Local,0,Group
+46,Female,Housewife,500,Married,1,1,RM1500 - RM2000,0,Hotel,0,2,Yes,Local,0,Group
+19,Male,Student,0,Single,1,2,below RM1000,0,Hotel,0,0,Yes,Overseas,0,Group
+57,Female,Teacher,6000,Married,0,3,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+46,Male,Clerk ,3500,Married,1,1,RM2000 - RM2500,1,Hotel,0,3,Yes,Local,0,Group
+23,Male,student,1500,Single,0,3,below RM1000,0,Family House,0,2,No,Local,0,Solo
+28,Male,Accountant,3800,Single,1,1,RM1500 - RM2000,1,AirBnB,0,0,No,Local,0,Group
+22,Male,Youtuber,4500,Single,0,1,RM1000 - RM1500,2,AirBnB,1,3,Yes,Overseas,0,Solo
+22,Male,student,1000,Single,1,2,below RM1000,0,Campsite,0,1,No,Local,0,Solo
+19,Female,student,100,Single,1,0,below RM1000,0,Homestay,1,2,No,Local,0,Solo
+21,Male,Student,500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,No,Local,1,Group
+21,Female,Student,0,Single,1,1,RM1000 - RM1500,1,Hotel,1,0,No,Overseas,0,Group
+22,Male,Student,0,Single,0,3,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+28,Male,Computer Programmer,4500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,Yes,Overseas,1,Solo
+27,Male,Engineer,3500,Single,0,0,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Group
+22,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+32,Male,Cleaners ,2100,Single,1,2,RM1500 - RM2000,1,AirBnB,1,0,No,Local,0,Solo
+16,Female,Student ,0,Single,2,0,More than RM3000,1,Homestay,0,3,Yes,Overseas,1,Group
+22,Female,Student,200,Single,0,4,below RM1000,4,AirBnB,1,0,No,Local,0,Group
+23,Male,Student,0,Single,0,0,below RM1000,0,Hotel,0,0,No,Local,0,Group
+21,Female,Student,1000,Single,1,1,RM2000 - RM2500,1,Homestay,0,0,No,Local,1,Group
+23,Male,Student,800,Single,0,1,below RM1000,0,AirBnB,1,0,Yes,Local,0,Group
+21,Male,STUDENT,0,Single,1,2,below RM1000,1,Hotel,0,2,No,Local,0,Solo
+23,Female,Student,0,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+56,Female,Salesperson,5900,Married,2,0,RM1500 - RM2000,0,Hotel,1,1,No,Overseas,1,Solo
+21,Female,Student,0,Single,1,1,More than RM3000,1,AirBnB,1,0,No,Local,1,Group
+32,Male,Farmer,3100,Married,0,1,below RM1000,2,Family House,0,0,No,Local,0,Solo
+37,Female,Xchef,5700,Married,1,1,RM2000 - RM2500,0,AirBnB,2,4,Yes,Overseas,2,Group
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+26,Male,Office Worker,3100,Single,1,2,below RM1000,0,Hotel,0,0,No,Local,1,Solo
+23,Male,Student,0,Single,0,0,below RM1000,1,AirBnB,0,2,No,Local,0,Solo
+24,Male,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+47,Male,Discord mod,5000,Married,0,1,RM1000 - RM1500,0,Hotel,0,1,No,Overseas,0,Group
+22,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+18,Male,Student,0,Single,1,2,RM1000 - RM1500,1,AirBnB,0,3,Yes,Overseas,0,Solo
+24,Male,student,1300,Single,0,0,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+44,Male,Historian,8000,Single,0,1,RM1500 - RM2000,1,Family House,1,0,No,Local,1,Group
+43,Male,Data Analyst ,56000,Married,2,2,RM2000 - RM2500,2,Hotel,2,3,Yes,Local,0,Group
+27,Female,Librarial,6000,Married,1,1,RM1000 - RM1500,2,Campsite,1,2,Yes,Overseas,1,Solo
+22,Female,Student,0,Single,0,1,below RM1000,1,Homestay,1,0,Yes,Local,0,Group
+43,Female,Train conductor,3800,Single,2,1,RM1000 - RM1500,1,AirBnB,2,1,No,Local,2,Group
+24,Female,Staff Nurse,2000,Single,1,1,below RM1000,0,Homestay,0,0,Yes,Overseas,1,Group
+30,Female,Secretary,2800,Married,0,0,RM2000 - RM2500,1,Campsite,1,1,No,Overseas,0,Group
+30,Female,Yoga teacher ,4500,Single,2,3,RM2000 - RM2500,3,Campsite,2,3,Yes,Overseas,1,Group
+21,Female,Student,400,Single,0,0,below RM1000,0,AirBnB,1,0,No,Local,0,Group
+41,Female,Traveler,2000,Married,1,1,RM2000 - RM2500,1,Campsite,2,1,Yes,Local,1,Solo
+21,Female,Student,0,Single,0,1,below RM1000,1,Homestay,1,0,No,Local,0,Group
+24,Female,Assistant Architect,2600,Single,2,1,More than RM3000,3,AirBnB,0,3,No,Overseas,1,Group
+21,Female,Student,750,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+18,Male,Student,600,Married,0,1,below RM1000,2,Family House,0,1,No,Local,1,Group
+25,Male,Software Engineer,3500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,No,Local,0,Solo
+42,Male,Programmers ,10000,Married,0,1,below RM1000,1,Campsite,1,1,No,Local,2,Solo
+26,Male,teacher,3000,Single,0,1,RM1000 - RM1500,1,Hotel,0,3,No,Overseas,1,Solo
+25,Male,Data Analyst,4000,Single,0,0,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+38,Male,Cleaner,3000,Married,1,0,RM1000 - RM1500,1,AirBnB,0,1,Yes,Local,0,Group
+22,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+24,Female,Student ,0,Single,1,3,RM1000 - RM1500,2,Family House,1,0,No,Local,0,Group
+26,Male,Engineer,3000,Single,1,1,RM1000 - RM1500,1,Hotel,1,2,No,Overseas,0,Group
+20,Female,clerk,1200,Single,1,1,RM1000 - RM1500,1,Hotel,1,0,No,Overseas,1,Solo
+21,Male,Student,0,Single,1,1,RM1500 - RM2000,1,AirBnB,0,3,No,Overseas,0,Group
+45,Female,Clerk,3000,Married,0,3,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+78,Female,Farmer,4500,Single,0,3,below RM1000,0,Family House,0,0,No,Overseas,0,Solo
+23,Male,student,1000,Single,0,1,below RM1000,0,Family House,0,1,No,Local,1,Solo
+35,Female,Lecturer,5500,Married,0,0,below RM1000,0,Hotel,1,0,No,Local,0,Group
+40,Female,Salespeople ,29000,Married,0,3,RM2000 - RM2500,2,Family House,1,0,Yes,Overseas,1,Group
+21,Female,Student,150,Single,0,3,RM1000 - RM1500,1,Hotel,0,0,No,Local,0,Group
+28,Female,Lecturer,4500,Married,0,3,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Group
+26,Male,Teacher,3000,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+45,Male,Athlete,4500,Married,1,0,RM1500 - RM2000,1,Hotel,1,3,Yes,Overseas,1,Group
+41,Male,Grab rider,4300,Single,1,0,RM1000 - RM1500,0,Hotel,0,1,Yes,Local,1,Solo
+23,Male,Student,0,Single,0,1,below RM1000,1,Family House,0,0,No,Local,0,Group
+34,Male,Programmers ,6800,Single,1,1,RM2000 - RM2500,1,Hotel,1,1,Yes,Overseas,1,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+23,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Group
+24,Male,student,1000,Single,0,1,below RM1000,0,Homestay,1,2,No,Local,0,Solo
+40,Female,Teacher,5000,Married,0,0,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+33,Male,Astronaut,9000,Married,0,0,RM1000 - RM1500,3,AirBnB,2,1,Yes,Local,1,Group
+32,Female,designer,5000,Single,1,0,More than RM3000,1,Hotel,1,3,No,Overseas,1,Solo
+32,Male,Farmer,3100,Married,0,1,below RM1000,2,Family House,0,0,No,Local,0,Solo
+30,Female,Musician ,6000,Married,0,1,RM1000 - RM1500,1,AirBnB,1,1,No,Local,1,Solo
+23,Male,student,1000,Single,0,1,RM1000 - RM1500,0,Family House,1,1,No,Local,0,Solo
+23,Male,student,1000,Single,0,2,below RM1000,1,Homestay,0,2,No,Local,0,Solo
+30,Male,Architect,6500,Single,0,2,RM1000 - RM1500,0,Hotel,1,3,No,Overseas,1,Solo
+21,Male,Student,2000,Single,1,1,RM1500 - RM2000,1,AirBnB,0,2,No,Overseas,1,Group
+27,Male,Gamer,5200,Single,1,1,RM1000 - RM1500,1,Hotel,2,3,Yes,Overseas,0,Solo
+25,Male,Data Analyst,4000,Single,0,0,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+23,Female,Tealive cashier,2500,Single,1,3,RM1500 - RM2000,0,Homestay,0,0,No,Local,1,Group
+21,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,4,No,Local,0,Group
+26,Female,Quantity surveyor,3000,Married,1,2,RM1000 - RM1500,0,AirBnB,1,2,No,Local,1,Solo
+23,Male,STUDENT,0,Married,0,3,below RM1000,0,Hotel,1,2,No,Local,0,Group
+40,Male,Government ,4000,Married,1,3,RM2500 - RM3000,0,Hotel,1,0,No,Local,0,Group
+21,Male,Student,0,Single,0,1,below RM1000,1,Hotel,3,2,Yes,Local,0,Group
+22,Male,Student,0,Single,0,3,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+30,Male,Footballer,12000,Married,2,2,RM2000 - RM2500,2,Hotel,2,3,No,Overseas,1,Group
+22,Male,STUDENT,0,Single,0,1,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Solo
+28,Male,Firefighters ,3900,Married,0,2,RM1500 - RM2000,1,Family House,2,3,No,Local,1,Group
+26,Male,Auditor ,3000,Single,1,1,RM2500 - RM3000,2,AirBnB,1,3,No,Overseas,1,Group
+24,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+24,Male,student,1200,Single,0,2,below RM1000,1,Hotel,1,2,No,Local,0,Solo
+29,Male,Stand up comedian,20000,Single,1,0,RM1500 - RM2000,1,Homestay,1,0,No,Overseas,1,Group
+21,Male,student,500,Single,0,1,below RM1000,1,Homestay,0,1,No,Local,0,Solo
+22,Male,Foodpanda rider,3000,Single,1,2,RM1500 - RM2000,0,Campsite,1,1,Yes,Overseas,0,Group
+21,Male,student,1222,Single,1,0,below RM1000,0,Family House,1,2,No,Local,0,Solo
+22,Female,Student,0,Single,0,1,RM1000 - RM1500,1,Hotel,1,0,No,Local,0,Group
+33,Male,Doctor,5500,Married,1,3,RM1000 - RM1500,0,Hotel,1,0,No,Overseas,1,Group
+26,Male,Fireman,2500,Married,0,1,below RM1000,1,Homestay,0,0,No,Local,0,Group
+52,Female,House wife,0,Married,0,1,RM1500 - RM2000,1,Hotel,0,0,No,Local,0,Group
+35,Male,Teacher,4000,Married,1,2,RM2000 - RM2500,1,Homestay,0,3,Yes,Overseas,1,Group
+46 years ,Female,Nurse,4000,Married,1,1,RM2000 - RM2500,2,Homestay,0,0,No,Local,0,Group
+34,Male,Grab driver,3500,Married,0,2,below RM1000,0,Hotel,1,1,No,Local,0,Solo
+25,Female,Whatsapp admin,6000,Married,0,0,RM1000 - RM1500,0,Homestay,2,1,No,Overseas,1,Group
+20,Female,Wattpad writer ,4000,Single,0,3,RM1000 - RM1500,3,Family House,2,0,Yes,Overseas,1,Group
+48,Female,Nurse Supervisor,7200,Married,3,1,RM1000 - RM1500,1,Homestay,1,0,No,Local,0,Group
+18,Male,Business ,300,Single,2,2,RM2500 - RM3000,0,AirBnB,0,2,No,Overseas,1,Solo
+23,Male,Student,0,Single,0,0,below RM1000,0,Hotel,0,0,No,Local,0,Group
+30,Female,Chef,3600,Married,0,0,RM1500 - RM2000,0,Homestay,0,3,Yes,Overseas,1,Group
+48,Female,Nurse,5000,Married,1,1,RM2000 - RM2500,1,Hotel,1,3,Yes,Overseas,1,Group
+26,Male,Student,0,Single,1,3,below RM1000,0,Family House,0,0,No,Local,0,Group
+30,Male,Teachet,4500,Single,0,2,RM1500 - RM2000,0,AirBnB,1,3,Yes,Overseas,1,Solo
+34,Female,Florist ,2007,Married,2,3,below RM1000,1,Homestay,0,1,No,Overseas,0,Solo
+46,Female,Home baker,1000,Married,0,1,below RM1000,0,Hotel,0,2,No,Local,0,Group
+21,Female,Student,0,Single,2,2,below RM1000,1,Hotel,3,4,No,Overseas,1,Solo
+21,Male,Student,600,Single,0,2,below RM1000,0,AirBnB,1,0,No,Local,0,Solo
+20,Male,Imstafamous,3000,Single,2,1,below RM1000,0,Family House,1,0,No,Local,0,Group
+19,Male,Gamer,4590,Single,1,2,below RM1000,2,Family House,1,3,Yes,Overseas,1,Group
+22,Male,Unemployed ,500,Single,1,2,below RM1000,1,AirBnB,0,3,No,Overseas,1,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+33,Male,teacher,4000,Married,1,3,below RM1000,0,Family House,2,0,No,Local,1,Group
+22,Female,Student,0,Single,0,2,below RM1000,1,Homestay,0,2,No,Local,0,Solo
+27,Male,Teacher,6000,Single,0,3,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+47,Female,Nurse,7700,Married,1,1,RM2500 - RM3000,1,Hotel,1,0,No,Overseas,1,Group
+19,Female,Student,500,Single,0,1,below RM1000,0,Homestay,0,2,No,Local,0,Group
+21,Male,student,1000,Single,0,1,below RM1000,1,Homestay,0,1,No,Local,0,Solo
+46,Female,Clerk,2000,Married,0,1,RM1000 - RM1500,1,Homestay,1,0,No,Local,0,Group
+37,Female,Librarian,3000,Married,1,3,RM1000 - RM1500,1,Hotel,1,3,Yes,Local,1,Solo
+47,Female,Actress,4900,Married,1,0,RM2500 - RM3000,0,Hotel,2,1,Yes,Local,1,Solo
+48,Female,Integrated Wellness Consultant ,8000,Married,2,3,More than RM3000,2,AirBnB,1,3,No,Overseas,1,Solo
+54,Male,Teacher,3470,Married,1,1,RM1000 - RM1500,1,Homestay,1,2,No,Local,0,Solo
+21,Female,Student ,0,Single,0,3,RM1000 - RM1500,0,Hotel,1,0,No,Local,1,Group
+21,Male,Student,0,Single,0,1,below RM1000,0,Homestay,1,0,No,Local,1,Group
+23,Male,Student,0,Single,0,1,below RM1000,1,Family House,0,0,No,Local,0,Group
+45,Female,Cleaner,1200,Married,0,3,below RM1000,1,Family House,0,2,No,Local,0,Group
+72,Male,Prime Minister,30000,Married,1,4,More than RM3000,0,Hotel,2,3,No,Overseas,0,Group
+22,Female,Students ,0,Single,1,1,RM2000 - RM2500,3,AirBnB,0,3,No,Overseas,0,Group
+22,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+44,Female,Cardiologist,7800,Married,0,1,RM1000 - RM1500,2,AirBnB,1,3,Yes,Overseas,0,Solo
+27,Male,Fireman,2500,Married,0,1,below RM1000,0,Homestay,0,0,No,Local,0,Solo
+23,Male,Student,0,Single,0,0,below RM1000,1,AirBnB,0,2,No,Local,0,Solo
+30,Male,Dentist,7000,Married,0,1,RM1000 - RM1500,0,Hotel,0,1,No,Local,1,Solo
+23,Male,STUDENT,0,Married,0,3,below RM1000,0,Hotel,1,2,No,Local,0,Group
+23,Male,student,1200,Single,0,0,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+18,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+46,Female,Housewife,0,Married,1,1,RM2000 - RM2500,1,Hotel,0,3,Yes,Overseas,1,Group
+32,Female,clerk,3200,Married,0,1,below RM1000,1,Hotel,0,0,Yes,Local,0,Group
+48,Female,Unemployed ,1000,Married,1,1,below RM1000,1,Campsite,1,0,No,Overseas,0,Solo
+26,Male,Model,3200,Married,0,1,RM1500 - RM2000,1,AirBnB,1,1,No,Local,1,Solo
+26,Male,Teacher,3000,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+24,Male,student,1000,Single,0,1,below RM1000,1,Homestay,0,2,No,Local,0,Solo
+46,Male,Internal Auditor,6700,Married,0,3,below RM1000,0,Hotel,3,0,No,Local,0,Group
+21,Female,Executive / Life Planner,2000,Single,1,1,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+21,Male,Salesmen ,2500,Married,0,1,RM1000 - RM1500,0,Family House,0,0,No,Overseas,1,Group
+23,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Group
+25,Female,Teacher,2509,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+21,Male,Student ,1000,Single,1,4,below RM1000,4,AirBnB,1,4,No,Overseas,1,Group
+32,Male,Minecraft player,5000,Single,1,2,RM1000 - RM1500,1,Family House,0,1,Yes,Overseas,0,Group
+37,Female,Model,6700,Married,0,1,RM1500 - RM2000,1,Family House,2,3,No,Local,1,Solo
+32,Male,Hacker,40009,Single,1,1,RM1000 - RM1500,0,Campsite,1,1,No,Local,2,Group
+45,Male,Doctor,10500,Married,2,0,RM2500 - RM3000,2,Hotel,0,3,Yes,Overseas,1,Group
+21,Male,student,2000,Single,1,1,RM1000 - RM1500,3,Homestay,0,3,No,Overseas,1,Solo
+33,Female,Maid,1570,Single,0,0,below RM1000,0,Family House,1,3,No,Overseas,0,Solo
+23,Male,STUDENT,0,Married,0,3,below RM1000,0,Hotel,1,2,No,Local,0,Group
+26,Male,Teacher,3000,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+39,Female,Teacher,6700,Single,2,1,More than RM3000,2,Homestay,0,1,No,Local,1,Solo
+24,Male,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+21,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,1,2,No,Local,0,Group
+47,Female,Nurse,5000,Single,1,4,More than RM3000,2,Hotel,1,3,No,Overseas,1,Solo
+22,Female,Student,1000,Single,1,0,RM1500 - RM2000,1,Hotel,1,3,No,Overseas,1,Solo
+45,Male,Manager,10000,Married,1,2,RM2500 - RM3000,0,Hotel,1,0,No,Local,1,Group
+49,Female,Driver,5900,Single,0,1,RM1500 - RM2000,1,Hotel,2,0,No,Local,1,Solo
+21,Female,Student,500,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+23,Female,student,1200,Single,1,2,below RM1000,1,Hotel,0,2,No,Overseas,1,Solo
+21,Female,Swasta,2000,Single,1,2,RM1000 - RM1500,3,Hotel,0,0,Yes,Local,0,Solo
+22,Male,student,1000,Single,0,3,below RM1000,0,Family House,0,0,No,Local,1,Solo
+21,Male,Student,0,Single,0,1,RM1000 - RM1500,1,Hotel,1,0,No,Overseas,1,Group
+21,Female,Student,0,Single,2,0,RM1500 - RM2000,1,Hotel,3,3,Yes,Overseas,1,Group
+46,Male,Government ,2500,Married,0,2,below RM1000,3,Homestay,1,0,Yes,Local,0,Solo
+22,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,0,2,No,Local,0,Group
+23,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Group
+46,Female,Admin Executive ,3000,Married,1,2,RM2500 - RM3000,3,Hotel,0,0,No,Local,0,Group
+21,Male,Student,500,Single,0,1,below RM1000,0,AirBnB,1,0,No,Local,0,Group
+46,Male,Manager,7680,Married,0,1,below RM1000,0,Campsite,1,1,No,Local,0,Solo
+22,Male,Vlogger,2980,Single,0,2,RM1000 - RM1500,1,Homestay,1,2,No,Local,0,Solo
+24,Male,Student,0,Single,1,3,below RM1000,1,Hotel,0,0,No,Local,0,Group
+21,Male,student,1300,Single,0,3,below RM1000,0,Family House,2,2,No,Local,0,Solo
+22,Female,Student,0,Single,0,2,RM1000 - RM1500,0,Homestay,0,0,No,Overseas,1,Group
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+25,Female, Business woman,7000,Single,1,0,RM1500 - RM2000,2,Hotel,0,3,Yes,Overseas,0,Group
+46,Female,Business owner ,100000,Married,2,1,More than RM3000,1,Hotel,1,3,No,Overseas,1,Group
+26,Male,Teacher,3000,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+22,Female,Student ,0,Single,0,2,RM2500 - RM3000,1,AirBnB,0,0,No,Overseas,1,Group
+538,Female,Silat teacher,3700,Married,2,0,RM2000 - RM2500,3,Family House,0,1,Yes,Overseas,0,Solo
+25,Male,Software Engineer,4600,Single,2,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+22,Male,student,2500,Single,0,0,below RM1000,0,AirBnB,0,0,Yes,Local,0,Solo
+21,Female,Student,0,Single,1,1,below RM1000,0,Homestay,0,0,No,Overseas,0,Group
+36,Female,Maid,1280,Married,0,2,RM1500 - RM2000,1,Family House,0,0,No,Local,0,Solo
+58,Female,Retired,4000,Married,0,4,RM1000 - RM1500,1,Hotel,1,0,No,Local,0,Group
+21,Female,Account Clerk,1700,Single,0,1,RM1500 - RM2000,0,AirBnB,0,3,No,Local,0,Group
+23,Female,Grab rider,3000,Single,1,0,RM1500 - RM2000,0,Homestay,0,1,Yes,Overseas,1,Group
+35,Female,Officer ,3000,Married,0,1,RM2000 - RM2500,0,Hotel,1,0,No,Local,0,Group
+25,Female,Programmer,4300,Married,0,2,RM2000 - RM2500,0,Homestay,0,3,No,Overseas,0,Group
+34,Male,Engineer,5000,Married,0,1,RM2000 - RM2500,1,Homestay,1,3,No,Local,1,Group
+51,Female,Nurse,8000,Married,1,1,RM2500 - RM3000,1,Homestay,0,0,No,Local,1,Solo
+22,Male,Student,500,Single,0,2,below RM1000,0,Hotel,0,1,No,Local,0,Group
+32,Male,Surgeon,16000,Married,1,1,RM2000 - RM2500,1,Family House,1,3,Yes,Overseas,0,Solo
+28,Male,Accountant,3800,Single,1,1,RM1500 - RM2000,1,AirBnB,0,0,No,Local,0,Group
+46,Female,Lawyer,5000,Married,2,1,RM2500 - RM3000,0,AirBnB,0,2,Yes,Local,1,Solo
+22,Female,Student,0,Single,0,1,RM1000 - RM1500,1,AirBnB,2,0,No,Overseas,1,Group
+33,Male,Footballer,7000,Married,1,1,RM2000 - RM2500,0,Campsite,1,1,Yes,Overseas,0,Solo
+25,Male,Data Analyst,4000,Single,0,0,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+21,Female,Student ,0,Single,1,1,below RM1000,1,Hotel,1,0,No,Overseas,1,Group
+21,Male,Student,1000,Single,1,2,below RM1000,0,Hotel,0,0,No,Overseas,0,Solo
+45,Male,Customer service ,5000,Married,0,1,RM1500 - RM2000,1,Hotel,1,0,No,Local,1,Group
+18,Female,Student,300,Single,0,1,below RM1000,0,Homestay,1,0,Yes,Local,1,Group
+28,Male,Youtuber,3490,Married,1,1,RM1000 - RM1500,3,Family House,1,0,No,Local,1,Solo
+22,Male,student,1000,Single,0,1,below RM1000,0,Family House,1,2,No,Local,0,Solo
+54,Female,Professor ,5000,Single,0,1,RM1000 - RM1500,0,Family House,0,1,Yes,Overseas,0,Solo
+33,Female,Actress,15000,Married,1,0,More than RM3000,1,Hotel,2,3,No,Overseas,1,Group
+34,Female,Dentist,5000,Single,1,2,RM1000 - RM1500,1,AirBnB,2,3,No,Overseas,1,Solo
+26,Female,Lecturer,5600,Single,1,0,RM1500 - RM2000,0,Hotel,1,2,Yes,Overseas,1,Solo
+22,Male,student,1000,Single,0,2,below RM1000,2,Campsite,0,1,No,Local,0,Solo
+28,Female,Painter,3800,Single,1,1,RM1000 - RM1500,1,Family House,0,1,No,Local,1,Group
+36,Female,Fashion Designer,5000,Single,0,2,below RM1000,1,Homestay,0,0,No,Local,0,Group
+21,Male,Student,0,Single,0,3,RM1000 - RM1500,1,Homestay,1,0,No,Local,0,Group
+19,Female,student,0,Single,1,2,RM1000 - RM1500,1,Hotel,0,0,Yes,Local,1,Solo
+30,Male,Engineer,15000,Married,2,0,RM2000 - RM2500,2,Hotel,1,3,No,Overseas,1,Group
+28,Female,Certified hacker,9000,Single,2,3,below RM1000,0,Hotel,1,2,Yes,Local,0,Solo
+21,Male,Student,0,Single,3,4,RM2500 - RM3000,2,Hotel,1,3,Yes,Overseas,1,Group
+21,Male,Student ,500,Single,2,2,More than RM3000,2,Family House,0,0,No,Overseas,0,Group
+25,Female,Lecturer,6500,Married,1,0,More than RM3000,1,Family House,2,1,Yes,Overseas,1,Group
+26,Female,Carpenter ,4500,Married,0,1,RM1500 - RM2000,1,Hotel,1,2,No,Local,1,Solo
+25,Male,Office worker,5000,Single,2,3,RM1000 - RM1500,0,Family House,1,0,No,Local,0,Group
+26,Male,Cashier,3200,Single,1,0,RM1000 - RM1500,2,AirBnB,1,1,No,Local,0,Solo
+24,Female,teacher,3000,Married,1,3,below RM1000,0,Family House,2,0,No,Local,0,Group
+28,Male,Police officer,7000,Single,0,0,RM1000 - RM1500,1,Family House,1,2,No,Overseas,0,Group
+30,Female,Project Executive,7000,Married,1,1,RM1500 - RM2000,3,Hotel,0,3,No,Overseas,1,Group
+26,Male,Office Worker,3100,Single,1,2,below RM1000,0,Hotel,0,0,No,Local,1,Solo
+36,Female,Unemployed ,200000,Married,2,1,More than RM3000,1,Family House,2,1,No,Overseas,2,Group
+21,Female,Student,0,Single,0,1,below RM1000,0,Homestay,3,0,Yes,Local,0,Group
+37,Male,Veterinary ,6800,Married,2,2,RM2500 - RM3000,2,Hotel,2,3,Yes,Overseas,1,Solo
+28,Male,Police Officer,2500,Married,0,1,below RM1000,0,Family House,0,0,No,Local,0,Group
+21,Female,Student ,0,Single,1,1,RM1000 - RM1500,1,AirBnB,0,2,No,Local,0,Group
+37,Female,Yoga trainer,4900,Married,0,0,RM2000 - RM2500,3,Campsite,1,3,Yes,Overseas,2,Solo
+23,Female,Blogger,1800,Single,0,4,below RM1000,0,Campsite,2,3,No,Local,1,Solo
+33,Female,Staff nurse,2000,Married,0,1,RM1000 - RM1500,1,Homestay,0,0,No,Local,1,Group
+22,Female,Student,0,Single,2,2,More than RM3000,3,AirBnB,0,3,No,Overseas,1,Group
+28,Female,Youtuber,5400,Single,2,2,RM1500 - RM2000,1,Hotel,1,1,Yes,Overseas,2,Solo
+22,Male,student,1000,Single,1,3,below RM1000,0,Family House,2,2,No,Local,0,Solo
+27,Male,JDT Football Player ,21000,Married,1,2,More than RM3000,1,Hotel,3,3,No,Overseas,1,Group
+33,Female,Receptionist,3200,Single,0,0,below RM1000,1,Family House,2,0,No,Local,0,Solo
+34,Female,Housewife,0,Married,1,0,RM1000 - RM1500,1,AirBnB,1,3,Yes,Overseas,1,Group
+21,Male,Student,1000,Single,0,1,below RM1000,0,Campsite,0,1,No,Local,0,Group
+24,Male,Mechanic,2500,Single,0,3,below RM1000,0,AirBnB,1,1,No,Local,0,Group
+21,Male,STUDENT,0,Single,0,0,below RM1000,0,AirBnB,0,0,No,Local,0,Group
+42,Female,Chief Finance Officer,32343,Single,1,2,More than RM3000,1,Hotel,1,3,No,Overseas,1,Solo
+50,Female,SRN,3000,Married,0,1,below RM1000,0,Hotel,0,0,No,Local,1,Group
+55,Male,Manager,5500,Married,0,1,below RM1000,0,Campsite,1,1,No,Local,1,Solo
+24,Male,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+45,Male,Manager,10000,Married,2,1,More than RM3000,1,Hotel,1,3,No,Overseas,1,Group
+40,Male,Unemployed ,0,Married,2,2,More than RM3000,3,Hotel,1,3,No,Overseas,2,Group
+48,Female,Lawyer,4000,Married,1,1,RM2000 - RM2500,2,AirBnB,0,3,No,Overseas,1,Group
+32,Male,Farmer,3100,Married,0,1,below RM1000,2,Family House,0,0,No,Local,0,Solo
+19,Male,Takde,400,Single,2,1,RM1500 - RM2000,1,Hotel,1,0,No,Overseas,0,Group
+33,Male,Doctor,5500,Married,1,3,RM1000 - RM1500,0,Hotel,1,0,No,Overseas,1,Group
+21,Female,Student,0,Single,1,1,RM2000 - RM2500,1,Homestay,0,3,No,Overseas,1,Solo
+19,Male,Student,800,Single,0,1,below RM1000,2,Campsite,1,1,No,Local,1,Solo
+24,Male,student,1800,Single,0,2,below RM1000,0,Family House,0,2,No,Local,0,Solo
+47,Male,Flower sellers ,4000,Single,1,1,RM1500 - RM2000,3,Hotel,1,0,No,Overseas,1,Solo
+45,Male,Police officer,5600,Married,0,1,below RM1000,1,Hotel,1,0,No,Local,0,Solo
+20,Male,Student,0,Single,0,1,below RM1000,0,Homestay,0,0,No,Local,0,Group
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+30,Male,Factory Worker,2500,Married,0,2,below RM1000,0,AirBnB,1,0,No,Local,0,Solo
+21,Female,student,500,Single,0,2,below RM1000,0,Family House,2,0,No,Local,1,Solo
+19,Female,Student,500,Single,1,1,below RM1000,1,Hotel,1,0,Yes,Local,0,Solo
+23,Female,Student,0,Single,1,2,below RM1000,1,Family House,0,2,No,Local,0,Solo
+37,Male,DJ Radio,9900,Single,1,3,RM2500 - RM3000,3,Homestay,2,2,Yes,Local,1,Group
+24,Female,Admin,1800,Single,0,2,below RM1000,1,Hotel,0,3,No,Local,0,Group
+30,Male,Taxi driver,5000,Single,0,3,RM2500 - RM3000,1,Campsite,0,1,No,Overseas,0,Group
+31,Male,Judge,5000,Single,0,1,RM1500 - RM2000,1,Hotel,1,0,No,Overseas,0,Group
+59,Male,Retiree,0,Married,0,3,below RM1000,0,Family House,2,0,No,Local,1,Group
+21,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,0,2,No,Local,0,Solo
+40,Female,Engineer,5000,Married,0,0,below RM1000,1,Homestay,1,0,No,Local,0,Group
+21,Female,student,0,Single,1,0,below RM1000,0,Hotel,1,0,No,Local,0,Group
+26,Male,Fireman,2500,Married,0,1,below RM1000,1,Homestay,0,0,No,Local,0,Group
+37,Male,Youtuber,6000,Married,2,0,More than RM3000,0,Hotel,2,3,No,Overseas,1,Solo
+23,Male,Student,0,Single,0,0,below RM1000,0,Hotel,0,0,No,Local,0,Group
+27,Female,Manager,9000,Single,0,1,RM1500 - RM2000,2,Hotel,2,1,Yes,Local,1,Group
+21,Male,Student,300,Single,0,2,below RM1000,0,Family House,1,2,No,Local,1,Solo
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+50,Male,Pilot,8000,Married,2,1,RM1500 - RM2000,1,Family House,2,3,Yes,Local,2,Solo
+32,Male,Farmer,3100,Married,0,1,below RM1000,2,Family House,0,0,No,Local,0,Solo
+23,Male,Student,0,Single,0,0,below RM1000,0,Hotel,0,0,No,Local,0,Group
+27,Male,Fireman,2500,Married,0,1,below RM1000,0,Homestay,0,0,No,Local,0,Solo
+27,Female,Saleswoman,4600,Married,1,3,RM2000 - RM2500,2,AirBnB,0,3,No,Local,0,Group
+21,Male,student,1222,Single,0,1,below RM1000,0,Homestay,0,0,No,Local,0,Solo
+19,Female,Student,700,Single,0,1,below RM1000,0,AirBnB,1,0,Yes,Local,0,Solo
+21,Female,Assistant Administrator ,1600,Single,1,2,below RM1000,0,Hotel,1,0,No,Local,0,Group
+21,Male,student,1200,Single,0,1,below RM1000,0,Hotel,0,2,No,Local,0,Solo
+27,Male,Teacher,4900,Single,0,1,RM1500 - RM2000,1,Campsite,0,1,No,Overseas,0,Solo
+22,Male,Student,0,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+21,Male,Student ,0,Single,1,2,RM1000 - RM1500,2,Hotel,0,3,Yes,Local,0,Group
+47,Female,House wife,0,Married,0,3,below RM1000,1,Hotel,1,0,No,Local,0,Group
+30,Female,electrician,5000,Single,2,0,RM2500 - RM3000,1,Hotel,1,2,Yes,Overseas,1,Group
+22,Male,student,1000,Single,0,2,below RM1000,0,AirBnB,0,2,No,Local,0,Solo
+27,Female,clerk,3000,Married,0,3,RM1000 - RM1500,0,Homestay,0,0,No,Local,0,Group
+21,Female,QC,1700,Single,1,1,below RM1000,0,Hotel,1,3,No,Local,1,Group
+21,Female,STUDENT ,0,Single,1,1,RM1500 - RM2000,0,Hotel,0,0,No,Overseas,1,Group
+23,Female,House wife,3000,Single,1,1,RM1000 - RM1500,1,AirBnB,0,0,Yes,Overseas,1,Group
+29,Female,Manager,40599,Single,0,3,below RM1000,0,Family House,2,0,No,Local,0,Solo
+39,Male,Bus driver,6790,Married,2,2,RM2500 - RM3000,1,Homestay,1,2,No,Overseas,1,Group
+27,Female,Zoologist,8000,Married,2,1,RM2500 - RM3000,1,Hotel,1,3,No,Overseas,0,Solo
+22,Female,Customer service,2300,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+21,Male,Student,0,Single,1,1,below RM1000,1,Homestay,1,0,No,Local,0,Group
+21,Male,Student,0,Single,0,1,below RM1000,0,Homestay,0,0,No,Local,0,Group
+24,Female,student,1200,Single,0,1,below RM1000,0,Hotel,1,2,No,Local,0,Solo
+58,Female,Retired,2423,Married,2,2,below RM1000,1,Campsite,0,2,No,Overseas,2,Group
+40,Female,Youtuber,8000,Single,0,1,RM2000 - RM2500,1,Homestay,1,2,No,Local,0,Solo
+19,Female,Student ,50,Single,1,1,More than RM3000,1,Hotel,1,0,No,Local,2,Group
+35,Female,Teacher,3429,Married,1,0,below RM1000,2,Homestay,2,0,Yes,Local,1,Group
+21,Male,none,0,Single,1,3,below RM1000,0,Hotel,0,4,No,Local,0,Group
+40,Male,Bus driver,3900,Single,1,2,RM2500 - RM3000,0,AirBnB,1,0,No,Overseas,2,Group
+26,Female,Gamer,5600,Single,0,3,RM1500 - RM2000,1,AirBnB,1,0,No,Overseas,0,Group
+38,Male,Mechanic,6000,Married,0,0,RM2500 - RM3000,0,Hotel,0,2,Yes,Local,0,Group
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+30,Male,Architect,6500,Single,0,2,RM1000 - RM1500,0,Hotel,1,3,No,Overseas,1,Solo
+52,Female,Cleaner ,4600,Married,0,1,RM1000 - RM1500,1,Family House,1,2,Yes,Local,1,Solo
+30,Male,Architect,6500,Single,0,2,RM1000 - RM1500,0,Hotel,1,3,No,Overseas,1,Solo
+21,Female,Student,0,Single,0,1,below RM1000,1,Hotel,1,0,Yes,Local,0,Group
+27,Male,Karate instructor,45000,Single,1,0,RM1000 - RM1500,1,Hotel,0,0,No,Overseas,1,Solo
+22,Male,student,2100,Single,0,1,below RM1000,0,Hotel,0,1,No,Local,0,Solo
+44,Female,Driving teacher,5700,Married,1,1,RM1500 - RM2000,2,Family House,1,2,Yes,Overseas,0,Solo
+57,Male,Surgeon,90800,Married,1,2,RM2000 - RM2500,3,Hotel,0,3,Yes,Overseas,1,Solo
+25,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,1,0,No,Overseas,1,Solo
+21,Female,Student,0,Single,1,0,More than RM3000,2,Hotel,0,3,Yes,Overseas,2,Group
+27,Male,Policeman,6000,Single,0,1,RM1000 - RM1500,2,Family House,1,1,No,Local,1,Solo
+22,Female,Full-time student,0,Single,2,1,RM2000 - RM2500,1,AirBnB,3,2,No,Overseas,1,Solo
+21,Male,Student ,0,Single,1,3,below RM1000,0,Family House,1,0,No,Local,1,Group
+31,Male,Footballers ,5000,Married,1,1,More than RM3000,2,Hotel,2,3,Yes,Overseas,0,Group
+26,Male,Office Worker,3100,Single,1,2,below RM1000,0,Hotel,0,0,No,Local,1,Solo
+40,Female,Fry cook,2500,Single,0,2,below RM1000,0,Family House,1,0,No,Local,1,Solo
+24,Female,model,4000,Single,0,0,RM1500 - RM2000,1,Hotel,1,3,Yes,Overseas,1,Solo
+23,Female,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Group
+43,Female,Teacher,3500,Married,0,0,RM1000 - RM1500,2,Family House,1,2,No,Local,0,Solo
+45,Male,CEO,9000,Single,2,1,More than RM3000,0,Hotel,2,0,No,Overseas,0,Solo
+39,Male,Composer,6000,Single,1,0,RM2000 - RM2500,1,Family House,0,3,No,Overseas,1,Group
+20,Female,student,1400,Single,1,1,RM1000 - RM1500,0,Homestay,0,0,No,Local,0,Solo
+24,Male,engineer,4000,Single,1,0,RM1000 - RM1500,1,Hotel,1,3,No,Overseas,1,Solo
+27,Female,Actor,56000,Single,2,0,More than RM3000,1,Family House,2,3,Yes,Overseas,1,Group
+28,Male,Police Officer,2500,Married,0,1,below RM1000,0,Family House,0,0,No,Local,0,Group
+46,Male,Actor,5600,Single,1,2,RM1000 - RM1500,3,Homestay,0,2,No,Local,0,Solo
+35,Female,Gamer,3600,Married,1,2,RM2500 - RM3000,3,Homestay,0,2,No,Overseas,1,Group
+28,Male,Teacher,6500,Single,1,1,RM2000 - RM2500,1,Homestay,0,3,Yes,Overseas,0,Solo
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+20,Male,Student,1000,Single,0,2,below RM1000,0,Family House,0,1,No,Local,0,Solo
+23,Female,student,1500,Single,0,2,below RM1000,1,Hotel,1,2,No,Local,0,Solo
+30,Female,Teaccher,5600,Married,1,1,RM1000 - RM1500,1,Family House,1,0,No,Local,0,Group
+31,Male,Post man,5700,Married,1,0,below RM1000,3,Hotel,1,1,Yes,Overseas,1,Group
+38,Male,Maid,1200,Married,1,1,RM1500 - RM2000,2,AirBnB,2,2,Yes,Local,1,Solo
+25,Male,Engineer,3000,Single,1,3,RM1000 - RM1500,1,Family House,2,1,No,Local,0,Solo
+20,Male,student,1000,Single,0,1,below RM1000,0,Hotel,0,1,No,Local,0,Solo
+43,Female,Teacher,6800,Single,0,1,RM1000 - RM1500,0,Family House,1,1,Yes,Overseas,0,Solo
+32,Female,Teacher,6800,Single,0,1,RM1500 - RM2000,0,Hotel,1,1,No,Overseas,1,Solo
+46,Female,Nurse,5000,Married,1,1,More than RM3000,4,Hotel,1,3,Yes,Overseas,1,Group
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+21,Male,Waiter,2100,Single,0,0,below RM1000,1,Family House,0,1,No,Local,0,Group
+21,Female,Student,0,Single,1,2,RM2500 - RM3000,0,Hotel,1,3,No,Local,1,Group
+24,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+23,Female,Student,0,Single,1,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+33,Female,nurse,4500,Single,1,0,RM1000 - RM1500,1,Homestay,1,3,No,Overseas,1,Solo
+28,Male,Computer Programmer,4500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,Yes,Overseas,1,Solo
+23,Male,Student,0,Single,0,0,below RM1000,1,AirBnB,0,2,No,Local,0,Solo
+21,Male,Student,0,Single,0,1,below RM1000,0,Homestay,1,0,No,Local,0,Group
+21,Female,Student ,500,Single,0,4,RM1000 - RM1500,1,Hotel,0,0,No,Overseas,0,Solo
+23,Male,student,1000,Single,0,1,below RM1000,0,Homestay,0,1,No,Local,0,Solo
+25,Female,nurse,2500,Single,0,0,below RM1000,0,Hotel,0,2,No,Local,0,Solo
+23,Female,Student ,3000,Single,1,3,RM1000 - RM1500,4,Hotel,1,3,No,Local,1,Group
+46,Male,Self employed,8000,Married,0,1,RM1000 - RM1500,1,Hotel,1,0,No,Local,0,Solo
+21,Female,Student ,0,Single,1,1,below RM1000,0,Hotel,1,0,Yes,Local,0,Group
+21,Male,Student,5000,Single,0,1,RM2000 - RM2500,1,Hotel,1,3,No,Overseas,1,Solo
+25,Male,Businessman,60800,Single,1,0,RM1000 - RM1500,1,AirBnB,1,2,No,Overseas,1,Solo
+31,Female,clerk,3000,Single,1,0,RM1000 - RM1500,1,Homestay,0,2,No,Overseas,1,Solo
+42,Female,Conveyancing Clerk,3300,Married,1,1,RM2500 - RM3000,3,Hotel,1,3,No,Overseas,1,Group
+28,Male,Pembantu kedai,1300,Married,1,2,RM1500 - RM2000,2,Family House,0,0,Yes,Local,0,Group
+28,Female,Ballerina,1290,Single,2,1,RM1000 - RM1500,3,Family House,1,0,No,Overseas,1,Group
+21,Male,Student,550,Single,0,0,below RM1000,0,AirBnB,1,2,No,Local,0,Solo
+23,Male,Blogger,2450,Single,1,3,RM1000 - RM1500,1,Hotel,0,1,Yes,Overseas,0,Solo
+29,Female,Data Analysis,13000,Single,0,0,below RM1000,0,AirBnB,1,0,No,Local,0,Group
+21,Female,Business Woman,1800,Single,0,1,below RM1000,0,AirBnB,2,0,No,Overseas,1,Group
+20,Female,Student,0,Single,2,1,RM1000 - RM1500,2,Hotel,0,3,No,Overseas,1,Solo
+24,Male,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+23,Male,Student,0,Single,0,0,below RM1000,0,Hotel,0,0,No,Local,0,Group
+22,Male,Student ,0,Single,1,1,RM1000 - RM1500,0,Homestay,0,0,No,Local,0,Group
+21,Female,Student,0,Single,1,2,RM2000 - RM2500,1,Hotel,0,3,Yes,Local,0,Solo
+19,Male,student,1000,Single,1,3,below RM1000,1,Family House,1,2,No,Local,0,Solo
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+21,Female,Student,150,Single,0,3,RM1000 - RM1500,1,Hotel,0,0,No,Local,0,Group
+34,Female,Business woman,70050,Single,0,0,RM1000 - RM1500,0,Hotel,2,3,No,Local,0,Solo
+29,Female,Tour guide,5000,Single,1,0,RM1000 - RM1500,2,Homestay,0,3,No,Local,0,Group
+21,Female,Student,150,Single,0,3,RM1000 - RM1500,1,Hotel,0,0,No,Local,0,Group
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+21,Female,Student,2500,Single,1,2,RM1500 - RM2000,2,Homestay,0,0,No,Overseas,1,Group
+42,Female,Astronaut ,7900,Single,1,0,RM1500 - RM2000,1,Hotel,0,0,No,Overseas,0,Solo
+37,Male,Personal trainer ,4700,Married,1,1,RM1000 - RM1500,1,Family House,1,0,No,Local,0,Solo
+22,Female,business,400,Single,1,1,RM1500 - RM2000,1,Hotel,0,0,No,Local,1,Group
+25,Male,Software Engineer,3500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,No,Local,0,Solo
+34,Female,Historian,10000,Single,0,1,RM1500 - RM2000,1,Family House,0,0,No,Overseas,2,Group
+21,Male,student,1000,Single,1,1,below RM1000,0,Homestay,0,0,No,Local,0,Solo
+21,Male,Student,1000,Single,0,1,below RM1000,0,AirBnB,1,0,No,Local,0,Group
+36,Female,Streamer,7800,Married,0,3,RM1000 - RM1500,1,AirBnB,0,1,Yes,Overseas,1,Solo
+26,Male,Office Worker,3100,Single,1,2,below RM1000,0,Hotel,0,0,No,Local,1,Solo
+45,Female,Nurse,6700,Married,0,0,RM1000 - RM1500,1,Hotel,1,0,No,Local,1,Group
+30,Female,Cleaner,1600,Married,0,0,below RM1000,0,Family House,0,0,No,Local,0,Group
+56,Female,Registered Nurse,10000,Single,2,1,More than RM3000,2,Hotel,1,3,No,Overseas,1,Solo
+21,Female,Student,0,Single,0,1,below RM1000,2,Homestay,0,0,Yes,Local,1,Group
+25,Female,Practical teacher,3096,Single,1,1,RM1000 - RM1500,2,Homestay,1,1,No,Local,2,Solo
+21,Female,Student,0,Single,0,3,below RM1000,0,AirBnB,2,4,No,Overseas,1,Group
+22,Male,student,2000,Single,0,1,below RM1000,0,Homestay,1,1,No,Local,0,Solo
+28,Male,Computer Programmer,4500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,Yes,Overseas,1,Solo
+23,Male,driver,1500,Single,0,2,RM1000 - RM1500,3,Campsite,0,0,No,Local,0,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+24,Male,Programmer,5000,Single,1,1,RM1000 - RM1500,0,Homestay,1,2,Yes,Overseas,2,Solo
+23,Male,STUDENT,0,Married,0,3,below RM1000,0,Hotel,1,2,No,Local,0,Group
+23,Male,Student,0,Single,0,1,below RM1000,1,Family House,0,0,No,Local,0,Group
+21,Male,STUDENT,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+24,Male,-,0,Single,2,2,RM1500 - RM2000,2,Hotel,0,1,No,Local,1,Solo
+22,Female,Student,0,Single,0,0,RM1500 - RM2000,0,AirBnB,1,2,No,Local,0,Group
+33,Male,Doctor,5500,Married,1,3,RM1000 - RM1500,0,Hotel,1,0,No,Overseas,1,Group
+23,Male,Student,1000,Single,0,2,below RM1000,1,AirBnB,1,0,No,Local,0,Group
+21,Female,student,0,Single,0,1,below RM1000,1,Family House,0,2,No,Local,0,Solo
+34,Male,Soldier,3700,Married,0,3,RM1000 - RM1500,3,Family House,1,1,Yes,Overseas,0,Solo
+23,Male,STUDENT,0,Married,0,3,below RM1000,0,Hotel,1,2,No,Local,0,Group
+28,Male,Police Officer,2500,Married,0,1,below RM1000,0,Family House,0,0,No,Local,0,Group
+56,Male,cardiologist,35670,Married,2,1,More than RM3000,2,Campsite,1,3,Yes,Overseas,1,Group
+46,Female,Nurse,12000,Married,1,1,RM2500 - RM3000,1,Hotel,1,0,No,Local,1,Group
+46,Male,Tiktok artist,6200,Married,1,0,RM2500 - RM3000,1,Homestay,1,0,No,Overseas,2,Group
+21,Male,student,1000,Single,1,1,below RM1000,0,Campsite,0,1,No,Local,0,Solo
+20,Male,Student,1000,Single,1,3,RM1000 - RM1500,1,Hotel,1,3,No,Local,1,Solo
+24,Female,engineer,5420,Single,0,2,RM1500 - RM2000,1,AirBnB,0,0,No,Overseas,1,Solo
+34,Female,Coway assistant ,5100,Married,0,4,below RM1000,4,Hotel,0,0,No,Local,0,Group
+27,Female,Chef,5200,Single,1,1,RM1000 - RM1500,1,Family House,1,0,No,Overseas,1,Group
+29,Female,Farmer,7200,Single,0,0,RM1000 - RM1500,3,Homestay,1,1,Yes,Overseas,0,Solo
+33,Male,Doctor,5500,Married,1,3,RM1000 - RM1500,0,Hotel,1,0,No,Overseas,1,Group
+21,Male,student,1000,Single,0,2,below RM1000,0,Homestay,1,2,No,Local,0,Solo
+36,Male,Ship Worker,6000,Married,0,2,RM1000 - RM1500,1,Hotel,1,0,No,Local,0,Solo
+41,Male,Professor ,6900,Married,1,2,RM1500 - RM2000,2,Campsite,1,1,Yes,Local,1,Solo
+34,Male,Government Servant,6000,Married,1,1,RM1000 - RM1500,1,Hotel,0,0,Yes,Local,1,Group
+24,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+34,Female,Doctor,8000,Married,1,0,RM2000 - RM2500,1,Hotel,1,0,Yes,Overseas,1,Group
+22,Male,Gamer,3000,Single,0,2,below RM1000,2,Family House,0,1,No,Overseas,1,Solo
+19,Female,Teegram admin,3000,Single,1,1,RM2500 - RM3000,1,AirBnB,1,3,No,Local,2,Group
+35,Female,Barista,5400,Married,1,1,RM1000 - RM1500,0,Hotel,1,1,Yes,Local,1,Solo
+30,Female,nurse,2500,Single,0,0,below RM1000,1,Hotel,0,0,No,Local,1,Group
+42,Female,Dentist ,7000,Single,0,1,below RM1000,1,Hotel,1,1,Yes,Overseas,1,Solo
+28,Female,Footballer ,20000,Single,2,1,RM1000 - RM1500,2,Hotel,1,0,No,Local,2,Group
+22,Male,student,1000,Single,0,3,RM1000 - RM1500,0,Family House,2,1,No,Local,0,Solo
+24,Male,grab,2000,Single,0,2,below RM1000,1,Campsite,0,1,No,Local,0,Solo
+28,Male,business owner,5000,Single,2,0,RM2000 - RM2500,1,Hotel,1,3,No,Overseas,1,Solo
+34,Male,Youtuber,50000,Married,1,1,RM1500 - RM2000,1,Family House,1,2,No,Local,0,Group
+23,Female,It staff,2700,Single,0,3,RM1500 - RM2000,3,Homestay,0,0,No,Local,0,Group
+23,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,1,2,No,Local,0,Solo
+21,Female,Nursing ,2000,Single,1,2,RM2000 - RM2500,2,Hotel,1,3,Yes,Overseas,1,Solo
+23,Female,Student,1500,Single,0,1,below RM1000,0,Campsite,0,0,No,Local,0,Solo
+35,Female,Receptionist,3200,Single,1,3,below RM1000,2,Family House,0,0,No,Local,0,Solo
+31,Female,Programmer,23674,Married,0,1,RM2000 - RM2500,2,Homestay,1,2,No,Local,1,Group
+22,Male,student,1000,Single,0,1,below RM1000,1,Homestay,1,2,No,Local,0,Solo
+45,Male,Engineer,5600,Married,0,2,RM1000 - RM1500,3,AirBnB,0,0,No,Overseas,1,Solo
+26,Male,Office Worker,3100,Single,1,2,below RM1000,0,Hotel,0,0,No,Local,1,Solo
+23,Male,student,1000,Single,0,3,below RM1000,0,Family House,2,1,No,Local,0,Solo
+28,Female,Lecturer,4500,Married,0,3,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Group
+22,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+25,Female,Freelancer,6250,Single,1,0,RM1000 - RM1500,1,AirBnB,2,3,Yes,Overseas,1,Solo
+36,Female,Ice skater ,3100,Single,0,1,RM1000 - RM1500,1,Family House,0,1,No,Overseas,0,Solo
+48,Female,Nurse lecturer,5000,Married,2,1,More than RM3000,1,AirBnB,2,0,No,Local,1,Solo
+30,Male,Musician,6831,Married,1,2,RM1000 - RM1500,1,Homestay,1,0,Yes,Overseas,1,Solo
+45,Male,Lecturer ,4500,Married,1,0,RM1500 - RM2000,0,Homestay,1,3,Yes,Overseas,0,Solo
+22,Female,Student,800,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+26,Female,Teacher,4030,Single,1,2,below RM1000,1,Family House,1,0,Yes,Local,1,Group
+21,Female,student,0,Single,1,1,RM1000 - RM1500,2,AirBnB,0,0,No,Overseas,1,Group
+40,Male,Teacher,6100,Single,1,1,RM2000 - RM2500,1,Homestay,1,3,Yes,Overseas,0,Group
+19,Male,Student,2100,Single,1,1,RM1000 - RM1500,1,Hotel,1,1,No,Local,0,Solo
+23,Female,Student,0,Single,1,2,below RM1000,1,Family House,0,2,No,Local,0,Solo
+29,Female,Maid,4000,Single,1,0,RM1500 - RM2000,0,Family House,0,2,No,Local,1,Solo
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+21,Female,Student ,300,Single,1,2,below RM1000,0,AirBnB,1,0,No,Local,1,Group
+27,Male,Engineer,3500,Single,0,0,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Group
+21,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+24,Male,Student,0,Single,1,3,below RM1000,1,Hotel,0,0,No,Local,0,Group
+53,Male,Clerk,7000,Married,1,1,RM2000 - RM2500,2,Hotel,0,2,No,Local,2,Solo
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+42,Female,Director,45900,Married,2,0,RM2000 - RM2500,3,Hotel,1,1,Yes,Local,1,Group
+19,Male,student,1000,Single,1,1,RM1000 - RM1500,1,Hotel,1,1,Yes,Local,0,Solo
+21,Male,student,1500,Single,1,2,below RM1000,1,Homestay,0,2,No,Local,0,Solo
+30,Female,Kindergarden Teacher,2500,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+21,Female,Supervisior,1800,Single,0,1,RM1500 - RM2000,1,AirBnB,1,0,No,Local,0,Group
+27,Male,Policeman ,4590,Married,1,1,below RM1000,0,Hotel,1,0,Yes,Overseas,1,Solo
+28,Male,Mechanic,3500,Single,0,3,below RM1000,0,AirBnB,1,1,No,Local,0,Group
+23,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,1,2,No,Local,0,Solo
+22,Male,Student,0,Single,0,0,RM1000 - RM1500,0,Hotel,1,0,Yes,Local,0,Group
+20,Male,student,1000,Single,1,2,below RM1000,0,Homestay,1,1,No,Local,0,Solo
+27,Male,Engineer,3000,Single,0,3,below RM1000,0,Hotel,1,1,No,Local,0,Solo
+28,Female,Lecturer,4500,Married,0,3,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Group
+24,Female,Research assistant,1800,Single,2,1,below RM1000,1,Hotel,3,0,No,Local,0,Group
+34,Male,Police man,4500,Married,0,1,RM1000 - RM1500,1,Hotel,0,3,No,Local,0,Solo
+32,Female,Assistant manager,6500,Married,1,2,RM1000 - RM1500,0,Campsite,1,0,Yes,Local,1,Group
+27,Male,Engineer,3500,Single,0,0,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Group
+20,Male,Student,800,Single,0,3,below RM1000,0,Campsite,0,1,Yes,Overseas,0,Group
+30,Female,Nurse,6000,Single,1,0,RM1500 - RM2000,2,Hotel,2,3,No,Local,1,Solo
+56,Male,Police,4500,Married,0,1,below RM1000,2,AirBnB,1,0,No,Local,0,Solo
+46,Male,Bank Officer,8000,Married,2,1,RM1500 - RM2000,4,Homestay,1,0,No,Local,0,Group
+45,Female,Housewife,0,Married,1,3,RM2000 - RM2500,0,Hotel,1,0,No,Local,0,Group
+30,Male,Lawyer,5500,Single,1,2,RM1500 - RM2000,1,AirBnB,2,0,Yes,Local,1,Solo
+23,Male,STUDENT,0,Married,0,3,below RM1000,0,Hotel,1,2,No,Local,0,Group
+21,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,1,0,No,Overseas,1,Group
+17,Female,Studebt,150,Single,0,3,below RM1000,0,Family House,0,2,No,Local,0,Solo
+21,Male,Student,0,Single,1,1,below RM1000,4,Homestay,0,2,No,Local,0,Group
+29,Female,Soldier,8900,Married,1,0,RM1500 - RM2000,2,Family House,0,2,No,Overseas,1,Group
+31,Female,Data Analyst ,15000,Married,1,3,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Solo
+23,Male,Student,0,Single,0,0,below RM1000,1,AirBnB,0,2,No,Local,0,Solo
+20,Male,student,0,Single,1,1,below RM1000,0,AirBnB,1,0,No,Local,0,Solo
+22,Male,student,1200,Single,1,1,below RM1000,0,Homestay,0,0,No,Local,1,Solo
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+21,Male,Student,1050,Single,0,3,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+21,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+20,Female,Student,0,Single,2,1,RM1500 - RM2000,0,AirBnB,1,3,Yes,Overseas,1,Solo
+35,Female,Police,5400,Single,1,0,below RM1000,2,Hotel,1,2,No,Local,0,Solo
+28,Female,Lecturer,4500,Married,0,3,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Group
+23,Male,student,1000,Single,1,2,below RM1000,2,Campsite,0,0,No,Local,0,Solo
+22,Male,student,1000,Single,0,0,below RM1000,1,Hotel,0,1,No,Local,0,Solo
+25,Female,Student,1500,Single,0,2,below RM1000,0,Hotel,0,1,No,Local,0,Solo
+21,Female,Student ,0,Single,2,0,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Group
+27,Female,Model,5000,Single,0,0,RM2000 - RM2500,1,Hotel,1,3,No,Overseas,1,Solo
+32,Male,Farmer,3100,Married,0,1,below RM1000,2,Family House,0,0,No,Local,0,Solo
+19,Male,Footballer,9000,Single,0,2,RM1000 - RM1500,1,Hotel,0,1,Yes,Overseas,0,Solo
+24,Male,Student,0,Single,0,1,below RM1000,0,AirBnB,0,0,No,Local,0,Solo
+21,Male,student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,1,Group
+22,Female,Chef,3000,Single,1,0,RM1000 - RM1500,2,Hotel,1,0,No,Local,1,Solo
+26,Female,Teacher,6000,Married,1,1,RM2500 - RM3000,1,Homestay,0,1,No,Local,0,Solo
+48,Male,Manager,9100,Single,1,0,RM2000 - RM2500,0,Hotel,3,0,Yes,Overseas,1,Solo
+21,Female,Student,150,Single,0,3,RM1000 - RM1500,1,Hotel,0,0,No,Local,0,Group
+23,Male,Student,0,Single,0,0,below RM1000,1,AirBnB,0,2,No,Local,0,Solo
+21,Male,Insta famous,5000,Single,0,1,RM1500 - RM2000,0,Hotel,1,2,No,Local,1,Group
+38,Male,Mathematician,9000,Married,1,1,RM2000 - RM2500,3,Hotel,2,1,No,Overseas,2,Solo
+31,Male,Principal,7800,Married,1,3,RM2000 - RM2500,2,Campsite,2,2,No,Overseas,0,Group
+28,Male,Accountant,3800,Single,1,1,RM1500 - RM2000,1,AirBnB,0,0,No,Local,0,Group
+21,Female,Student,0,Single,1,4,below RM1000,1,Hotel,1,0,No,Local,0,Group
+22,Male,Model,3000,Single,1,0,RM2500 - RM3000,1,Homestay,0,1,No,Overseas,0,Group
+56,Male,Dentist,5600,Married,0,3,below RM1000,0,Homestay,1,0,No,Local,1,Solo
+46,Female,Director,12000,Married,1,1,RM2500 - RM3000,1,Hotel,1,3,No,Overseas,1,Group
+19,Female,Hawker,1600,Single,0,1,below RM1000,0,Family House,1,1,No,Overseas,0,Solo
+45,Male,Retired,6075,Single,2,2,More than RM3000,3,Family House,1,1,No,Overseas,2,Group
+25,Male,Software Engineer,3500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,No,Local,0,Solo
+21,Female,Student,0,Single,1,3,RM1000 - RM1500,3,Family House,1,0,No,Local,0,Solo
+22,Male,Gamer,3000,Single,0,1,below RM1000,0,Family House,1,1,Yes,Overseas,0,Solo
+21,Male,student,1000,Single,0,1,below RM1000,0,Family House,1,2,No,Local,0,Solo
+21,Male,student,2100,Single,0,1,below RM1000,0,Homestay,0,2,No,Local,0,Solo
+22,Male,Intern student,3000,Single,0,2,RM1000 - RM1500,0,Homestay,1,0,No,Local,1,Solo
+77,Male,Imam,1000,Married,0,3,below RM1000,4,Family House,0,0,No,Local,2,Solo
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+25,Male,Student,0,Single,0,4,below RM1000,3,Campsite,2,1,No,Overseas,1,Solo
+21,Female,Student,0,Single,1,1,below RM1000,1,AirBnB,1,3,No,Overseas,1,Group
+43,Male,Youtuber,65000,Married,1,3,RM2000 - RM2500,2,Homestay,1,1,Yes,Local,0,Group
+23,Female,Student,0,Single,1,2,below RM1000,1,Family House,0,2,No,Local,0,Solo
+18,Female,Student,0,Single,0,1,RM1000 - RM1500,0,Hotel,1,3,No,Overseas,1,Group
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+40,Male,Executives,8000,Married,1,1,More than RM3000,2,Family House,2,3,Yes,Overseas,1,Group
+22,Male,Student,0,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+55,Male,Retired,2500,Married,0,3,below RM1000,0,Homestay,1,0,No,Local,0,Solo
+28,Male,Firefighters ,5300,Married,0,1,RM1500 - RM2000,0,Campsite,0,2,No,Local,1,Group
+58,Male,Taxi driver,1200,Married,0,3,below RM1000,4,Family House,1,0,No,Local,0,Group
+21,Male,Student,600,Single,0,1,below RM1000,3,Family House,0,1,No,Local,0,Solo
+36,Male,Doctor ,8000,Married,2,3,More than RM3000,2,Family House,1,3,Yes,Local,0,Solo
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+23,Female,Starbuck barista ,5000,Single,0,1,RM1000 - RM1500,3,Hotel,2,0,No,Local,1,Group
+46,Male,Deputy director ,20000,Married,2,1,More than RM3000,1,Hotel,1,3,No,Overseas,1,Group
+27,Male,Engineer,4000,Single,0,2,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+50,Female,Retired,2500,Married,0,0,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+21,Female,Student,0,Single,0,1,RM1000 - RM1500,0,Hotel,2,0,No,Local,0,Group
+27,Female,lawyer,5000,Single,1,0,RM2000 - RM2500,1,Hotel,1,3,No,Overseas,1,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+60,Male,Retired,2500,Married,1,3,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+32,Female,Secretary ,6000,Married,0,3,RM1500 - RM2000,0,Family House,2,1,No,Local,1,Group
+23,Male,INTERN,580,Single,0,2,below RM1000,1,Hotel,0,2,No,Local,1,Solo
+23,Male,Student,0,Single,0,1,below RM1000,1,Family House,0,0,No,Local,0,Group
+25,Male,Data Analyst,4000,Single,0,0,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+24,Female,student,2000,Single,0,1,below RM1000,1,Homestay,0,2,No,Local,0,Solo
+50,Female,Lecturer,4500,Married,0,0,RM1000 - RM1500,1,Hotel,2,0,No,Local,0,Solo
+21,Male,Student,1900,Single,0,0,below RM1000,0,AirBnB,0,1,No,Local,0,Solo
+22,Male,Paramedic ,3500,Single,1,1,RM1500 - RM2000,4,Homestay,1,0,No,Local,1,Group
+27,Male,Fireman,2500,Married,0,1,below RM1000,0,Homestay,0,0,No,Local,0,Solo
+26,Male,Fireman,2500,Married,0,1,below RM1000,1,Homestay,0,0,No,Local,0,Group
+21,Female,student,0,Single,0,1,below RM1000,0,Homestay,1,0,No,Local,0,Group
+22,Male,student,700,Single,0,1,below RM1000,0,Homestay,0,2,No,Local,0,Solo
+21,Male,Student,0,Single,1,1,below RM1000,0,AirBnB,1,0,No,Local,0,Group
+21,Male,student,1000,Single,0,1,RM1000 - RM1500,1,Family House,1,2,No,Local,0,Solo
+53,Female,Housewife,0,Married,1,2,RM2000 - RM2500,2,Hotel,1,0,No,Overseas,0,Group
+16,Male,Student,200,Single,0,3,below RM1000,0,Family House,0,0,No,Local,0,Solo
+37,Male,Customer service ,2500,Married,1,3,RM1500 - RM2000,1,Hotel,0,0,No,Local,0,Group
+24,Female,student,1200,Single,0,2,below RM1000,0,Hotel,1,2,No,Local,0,Solo
+29,Female,Teacher,3000,Single,0,0,below RM1000,1,AirBnB,0,0,No,Local,0,Solo
+31,Female,Lecturer,6900,Married,0,0,RM2000 - RM2500,1,Hotel,1,2,No,Local,2,Solo
+38,Male,Accountant,51150,Married,0,2,below RM1000,1,AirBnB,0,2,Yes,Local,0,Solo
+22,Male,Student,0,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+25,Male,engineer,5000,Single,1,1,RM2500 - RM3000,1,AirBnB,1,3,No,Overseas,1,Solo
+30,Male,Architect,6500,Single,0,2,RM1000 - RM1500,0,Hotel,1,3,No,Overseas,1,Solo
+24,Male,Cleaner,1500,Single,1,1,RM2500 - RM3000,2,Hotel,0,0,No,Overseas,1,Group
+22,Female,Teacher ,2300,Single,0,1,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Group
+19,Male,Student,250,Single,0,3,below RM1000,1,Family House,1,0,No,Local,1,Solo
+27,Male,Lawyer,50000,Married,1,2,RM1000 - RM1500,1,Hotel,1,3,No,Overseas,1,Solo
+25,Male,Software Engineer,3500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,No,Local,0,Solo
+46,Female,Senior executive ,4200,Married,2,3,RM1500 - RM2000,1,Homestay,1,0,No,Overseas,1,Group
+22,Female,Student,0,Single,0,1,below RM1000,0,Hotel,0,0,No,Local,0,Group
+27,Male,Engineer,3500,Single,0,0,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Group
+37,Male,Veterinar,5680,Married,1,1,RM1000 - RM1500,3,Homestay,1,2,No,Overseas,1,Group
+46,Male,Operation manager ,5000,Single,1,1,RM2000 - RM2500,2,Hotel,0,3,No,Overseas,1,Solo
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+27,Male,Engineer,3500,Single,0,0,RM1000 - RM1500,1,AirBnB,0,3,No,Overseas,1,Group
+22,Male,Student,0,Single,0,3,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+51,Male,Policeman ,6000,Married,0,1,RM1000 - RM1500,0,Homestay,2,1,Yes,Local,1,Solo
+38,Female,Cleaner,3500,Married,1,1,RM1500 - RM2000,3,Family House,0,0,No,Local,0,Group
+36,Female,Baker,3700,Married,1,1,RM2500 - RM3000,0,Family House,2,2,Yes,Local,0,Solo
+36,Female,Chef,4400,Married,1,0,RM2000 - RM2500,2,Family House,1,3,No,Overseas,0,Group
+33,Male,Plumber ,3700,Married,2,0,RM1000 - RM1500,1,Family House,1,3,Yes,Local,1,Solo
+32,Female,Data Analyst,8000,Married,2,3,RM2000 - RM2500,1,Hotel,2,1,Yes,Overseas,1,Group
+21,Male,Student,1000,Single,0,2,below RM1000,1,Campsite,0,1,No,Local,0,Group
+30,Male,Architect,6500,Single,0,2,RM1000 - RM1500,0,Hotel,1,3,No,Overseas,1,Solo
+23,Female,Tazi driver ,2500,Single,0,1,RM1000 - RM1500,1,Family House,1,1,No,Local,0,Group
+22,Female,Student,0,Single,0,2,below RM1000,1,Hotel,1,0,No,Local,0,Group
+21,Male,Student,0,Single,1,1,below RM1000,1,AirBnB,1,0,No,Local,1,Group
+26,Male,Food Panda Rider,3500,Single,0,3,below RM1000,0,AirBnB,1,1,No,Local,0,Group
+27,Female,Data anlysis,5000,Single,1,2,below RM1000,0,Hotel,1,0,No,Local,0,Solo
+35,Female,Lecturer,6000,Married,1,1,RM2500 - RM3000,1,AirBnB,1,3,No,Overseas,1,Group
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+21,Female,Student,500,Single,0,1,below RM1000,2,Hotel,0,4,No,Local,0,Group
+21,Male,Student ,0,Single,0,1,below RM1000,1,Hotel,1,3,No,Local,0,Group
+18,Male,Student,1000,Single,0,1,below RM1000,1,Hotel,1,1,No,Local,1,Group
+29,Male,Model,3400,Married,1,2,below RM1000,1,Family House,2,1,Yes,Local,1,Solo
+23,Male,student,2000,Single,0,1,below RM1000,0,Family House,0,2,No,Local,0,Solo
+26,Male,Mechanic,3500,Married,0,3,below RM1000,0,Homestay,1,1,No,Local,0,Group
+22,Male,student,1000,Single,1,2,below RM1000,0,Homestay,1,2,No,Local,1,Solo
+32,Male,Technician ,4090,Single,1,1,RM2500 - RM3000,3,Hotel,1,2,No,Local,1,Solo
+40,Female,Sales woman ,8000,Married,2,0,More than RM3000,0,Hotel,2,3,Yes,Overseas,1,Group
+25,Male,Data Analyst,4000,Single,0,0,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+23,Male,Student,0,Single,0,0,below RM1000,1,AirBnB,0,2,No,Local,0,Solo
+28,Male,Computer Programmer,4500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,Yes,Overseas,1,Solo
+45,Male,Engineer,9000,Married,1,1,RM2000 - RM2500,1,Homestay,1,3,Yes,Overseas,1,Group
+18,Male,Student,1000,Single,1,3,below RM1000,0,Family House,1,0,No,Local,0,Solo
+56,Male,E-hailing Driver,2700,Married,0,3,below RM1000,0,Family House,0,1,No,Local,0,Solo
+22,Male,Student,0,Single,0,3,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+21,Male,Student (do grab student as side job),180,Single,1,2,below RM1000,1,Hotel,0,0,No,Local,0,Group
+46,Female,Housewife,1000,Married,0,1,RM1000 - RM1500,0,Homestay,1,0,No,Local,0,Group
+23,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Solo
+40,Male,Instructor ,5100,Married,1,1,RM2000 - RM2500,3,Campsite,1,2,Yes,Overseas,0,Group
+30,Female,Clerk,3500,Married,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+22,Male,student,1200,Single,0,1,below RM1000,1,Homestay,1,2,No,Local,1,Solo
+21,Male,Student,0,Married,0,4,More than RM3000,4,Hotel,3,4,No,Overseas,2,Solo
+35,Female,Policeman,6000,Single,1,2,RM1000 - RM1500,2,Campsite,1,1,No,Local,1,Group
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+28,Male,Journalist,3000,Single,0,2,below RM1000,0,Family House,0,0,No,Local,1,Solo
+32,Male,Farmer,3100,Married,0,1,below RM1000,2,Family House,0,0,No,Local,0,Solo
+24,Male,Student,0,Single,1,3,below RM1000,1,Hotel,0,0,No,Local,0,Group
+25,Male,Software Engineer,3500,Single,0,0,RM1000 - RM1500,0,Hotel,0,0,No,Local,0,Solo
+18,Female,Gamer,4312,Single,0,1,RM1500 - RM2000,0,Family House,1,1,Yes,Local,1,Group
+22,Male,Student,0,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+21,Male,Aircraft Mechanic ,2900,Single,0,4,RM2500 - RM3000,2,AirBnB,1,3,No,Overseas,1,Solo
+38,Female,Reservation Officer ,1500,Single,1,1,RM1000 - RM1500,1,Hotel,1,3,No,Local,0,Group
+22,Male,student,1000,Single,0,1,below RM1000,0,Family House,1,2,No,Local,0,Solo
+48,Male,Traffic police,5600,Married,0,0,RM1000 - RM1500,3,Hotel,0,1,Yes,Overseas,1,Solo
+23,Female,Student,0,Single,1,2,below RM1000,1,Family House,0,2,No,Local,0,Solo
+22,Female,Student,0,Single,2,4,More than RM3000,4,Hotel,3,4,Yes,Local,0,Group
+21,Male,Student,0,Single,0,2,below RM1000,0,Hotel,0,0,No,Local,0,Solo
+26,Male,Teacher,3000,Single,0,1,below RM1000,0,Hotel,1,0,No,Local,0,Group
+23,Male,Reporter,3600,Single,0,1,below RM1000,0,AirBnB,1,1,No,Local,0,Solo
+21,Female,Student,5300,Single,2,1,RM1500 - RM2000,1,AirBnB,1,3,No,Overseas,1,Group
+30,Male,Writer,3256,Married,2,1,RM1000 - RM1500,2,AirBnB,1,1,Yes,Local,1,Solo
+21,Female,Student,0,Single,1,1,below RM1000,0,AirBnB,0,2,No,Overseas,1,Group
+41,Female,Marketing Exec,4000,Single,2,2,More than RM3000,2,Hotel,0,3,No,Overseas,1,Solo
+37,Male,Chef,5100,Single,0,2,RM1000 - RM1500,3,Family House,2,2,No,Local,0,Solo
+22,Female,Club chairman,190000,Single,0,2,below RM1000,0,Hotel,1,1,No,Overseas,0,Group
+21,Female,Student,150,Single,0,3,RM1000 - RM1500,1,Hotel,0,0,No,Local,0,Group
+23,Male,STUDENT,0,Married,0,2,below RM1000,0,Hotel,1,2,No,Local,0,Solo
+21,Female,Student ,0,Single,2,3,below RM1000,1,Hotel,2,0,Yes,Overseas,1,Group
+24,Female,Barista ,3500,Married,0,1,RM1000 - RM1500,2,Family House,2,1,Yes,Overseas,0,Solo
+18,Male,Student,440,Single,0,1,below RM1000,0,Campsite,0,2,No,Local,0,Solo
+24,Male,Athlete,6700,Single,1,2,RM1500 - RM2000,2,Family House,2,3,No,Local,0,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,Hotel,0,0,No,Local,0,Group
+24,Female,Not employed ,0,Single,1,1,RM2000 - RM2500,1,Homestay,1,0,No,Local,1,Solo
+23,Female,Student,0,Single,1,2,below RM1000,1,Family House,0,2,No,Local,0,Solo
+33,Female,Lawyer,4500,Single,1,0,RM2000 - RM2500,2,AirBnB,1,3,No,Overseas,1,Solo
+44,Female,Lecturer,5000,Married,1,2,RM1000 - RM1500,0,Hotel,1,0,No,Local,0,Solo
+30,Male,Bank worker,4000,Married,0,3,below RM1000,1,AirBnB,1,0,No,Local,0,Group
+30,Female,Doctor,5900,Married,1,3,RM1500 - RM2000,1,Homestay,0,1,No,Overseas,2,Solo
+48,Male,McD workers,1500,Married,1,1,RM1000 - RM1500,1,Hotel,2,1,Yes,Local,1,Group
+39,Female,Comic writer,7000,Single,0,4,below RM1000,3,Campsite,0,0,No,Overseas,2,Group
+38,Male,Football manager player,12000,Single,0,2,RM1500 - RM2000,1,Homestay,0,2,Yes,Local,0,Group
+34,Female,Teacher,3500,Married,0,0,below RM1000,1,Homestay,1,0,No,Overseas,0,Group
+42,Female,Discord user,5000,Single,1,3,RM1500 - RM2000,1,Hotel,1,3,No,Local,1,Group
+36,Male,Lecturer,5000,Married,0,0,RM1500 - RM2000,1,Hotel,0,3,Yes,Overseas,1,Solo
+22,Male,Student,0,Single,0,1,below RM1000,1,AirBnB,0,0,No,Local,0,Group
+28,Male,Accountant,3800,Single,1,1,RM1500 - RM2000,1,AirBnB,0,0,No,Local,0,Group
