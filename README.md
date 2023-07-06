@@ -1,5 +1,6 @@
+![science gif](http://nerdist.com/wp-content/uploads/2014/05/Finn-SCIENCE.gif)
 
-# Project Title
+# TRAVELLING PREFERENCES AMONG MALAYSIAN CITIZENS
 
 This project presents a machine-learning-based travelling preferences
 recommendation system that guides and recommends travelling preferences to travellers. The system is designed
@@ -38,10 +39,12 @@ For the documentation of this project, you can check it over [here](https://pdf.
 ## Screenshots
 
 - Training Accuracy Percentage: 77.26%
-![App Screenshot]()
 
-- Testing Accuracy Percentage: 
-![App Screenshot2]()
+![App Screenshot](image/ss1.png.png)
+
+- Testing Accuracy Percentage: 62.96%
+  
+![App Screenshot2](image/ss2.png)
 
 
 
