@@ -40,7 +40,7 @@ For the documentation of this project, you can check it over [here](https://pdf.
 
 - Training Accuracy Percentage: 77.26%
 
-![App Screenshot](image/ss1.png.png)
+![App Screenshot](image/ss.png)
 
 - Testing Accuracy Percentage: 62.96%
   
